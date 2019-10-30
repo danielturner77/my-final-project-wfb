@@ -44,7 +44,6 @@ body {
 
 .list-item:hover {
     color: rgba(225,225,225);
-    
 }
 
 .main {
@@ -71,31 +70,6 @@ body {
     font-weight: bolder;
     text-align: center;
     padding-top: 3px;
-}
-
-.section {
-    background-color: rgba(0,0,0,.6);
-    width: 100%;
-    height: 600px;
-    position: relative;
-}
-
-.section-img, .section-p {
-    height: 550px;
-    width: 47%;
-    border: solid 3px rgba(161,32,3);
-    float: left;
-    margin-left: 25px;
-
-}
-
-.guitar-img {
-    height: 510px;
-    width: 94%;
-    padding: 20px;
-}
-.section-p p{
-    padding: 20px;
 }
 
 .footer {
@@ -146,7 +120,6 @@ body {
     margin-top: 20px;
 }
 
-
 /******************About Styles**************/
 
 .container {
@@ -174,7 +147,6 @@ body {
     top: 130px;
     left: 40%;
     border-radius: 50%;
-    
 }
 
 .about-header h2 {
@@ -184,7 +156,6 @@ body {
     color: rgba(225,225,225);
     padding-top: 3px;
     top: 130px;
-    
 }
 
 .container-box img {
@@ -207,7 +178,6 @@ body {
     padding: 25px;
     color: rgba(225,225,225);
 }
-
 
 /******************Contact Styles**************/
 
@@ -244,7 +214,6 @@ body {
     text-align: center;
     padding-top: 3px;
     color: rgba(225,225,225);
-    
 }
 
 .map {
